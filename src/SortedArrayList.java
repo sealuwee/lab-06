@@ -12,7 +12,7 @@ public class SortedArrayList<T extends Comparable<T>> implements SortedList<T> {
     }
     // size function
     @Override
-    public int size(){
+    public int size() {
         return size;
     }
     // grow array helper function from lecture adjusted for this assignment
