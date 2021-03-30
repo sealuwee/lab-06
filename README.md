@@ -8,6 +8,13 @@
 - contains a constructor for a new SortedArrayList
 - wasn't sure if we needed to explicitly do some kind of sorting algorithm to sort the array after any of methods would be called
 
+### SortedLinkedList.java
+
+- DISCLAIMER: I DON'T THINK I DID THIS CORRECTLY
+- Was confused on how to sort the added nodes into the linkedlist
+- followed a lot of the lecture examples
+- couldn't get the add function to work properly
+
 ### SortedList.java
 
 - contains code for the interface SortedList
